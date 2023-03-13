@@ -1,0 +1,40 @@
+{
+    "digital": [
+        {
+            "title": "Cyborg",
+            "description": "A futuristic neon lit cyborg face",
+            "year": "2011",
+            "url":"./t13.webp"
+        },
+        {
+            "title": "Monster",
+            "description": "A photo of a white fur monster standing in a purple room",
+            "year": "2002",
+            "url":"./t14.webp"
+        },
+        {
+            "title": "Silhouette",
+            "description": "A photo of a silhouette of a person in a color lit desert at night",
+            "year": "2003",
+            "url":"./t15.webp"
+        },
+        {
+            "title": "Dog",
+            "description": "A dog made from balloon.",
+            "year": "2020",
+            "url":"./t16.webp"
+        },
+        {
+            "title": "Explosion",
+            "description": "A centered explosion of colorful powder on a black background",
+            "year": "2023",
+            "url":"./t17.webp"
+        },
+        {
+            "title": "Teddy",
+            "description": "A photo of a teddy bear on a skateboard in Times Square",
+            "year": "2019",
+            "url":"./t18.webp"
+        }
+    ]
+}

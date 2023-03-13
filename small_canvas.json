@@ -1,0 +1,40 @@
+{
+    "small": [
+        {
+            "title": "Michael Jordon",
+            "description": "Canvas painting of Michael Jordan.",
+            "year": "2011",
+            "url":"./t1.webp"
+        },
+        {
+            "title": "Artificial Intelligence",
+            "description": "An abstract painting of artificial intelligence",
+            "year": "2002",
+            "url":"./t2.webp"
+        },
+        {
+            "title": "Player",
+            "description": "A van Gogh style painting of an American football player",
+            "year": "2003",
+            "url":"./t3.webp"
+        },
+        {
+            "title": "Chess",
+            "description": "A robot playing chess.",
+            "year": "2020",
+            "url":"./t4.webp"
+        },
+        {
+            "title": "River",
+            "description": "Abstract painting of mountains and river",
+            "year": "2023",
+            "url":"./t5.webp"
+        },
+        {
+            "title": "Cat",
+            "description": "An oil pastel drawing of an annoyed cat in a spaceship",
+            "year": "2019",
+            "url":"./t6.webp"
+        }
+    ]
+}

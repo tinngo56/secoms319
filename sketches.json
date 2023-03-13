@@ -1,0 +1,40 @@
+{
+    "sketch": [
+        {
+            "title": "Car",
+            "description": "Hand drawn sketch of a Porsche 911",
+            "year": "2011",
+            "url":"./t7.webp"
+        },
+        {
+            "title": "Bridge",
+            "description": "A pencil and watercolor drawing of a bright city in the future with flying cars",
+            "year": "2002",
+            "url":"./t8.webp"
+        },
+        {
+            "title": "Bird",
+            "description": "Bird made with pencil.",
+            "year": "2003",
+            "url":"./t9.png"
+        },
+        {
+            "title": "Cartoon",
+            "description": "A cartoon of a cat catching a mouse",
+            "year": "2020",
+            "url":"./t10.webp"
+        },
+        {
+            "title": "Sunset",
+            "description": "A hand-drawn sailboat circled by birds on the sea at sunrise",
+            "year": "2023",
+            "url":"./t12.webp"
+        },
+        {
+            "title": "Cat",
+            "description": "A cat riding a motorcycle",
+            "year": "2019",
+            "url":"./t11.webp"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "business": [
+        {
+            "title": "Singul Art website",
+            "description": "This is an online gallery and you can speak experts on Art to buy/find art.",
+            "year": "2011",
+            "url":"./t23.png"
+        },
+        {
+            "title": "UGallery Art website",
+            "description": "This is an online art wensite which offers art ranging from office room to living room art.",
+            "year": "2002",
+            "url":"./t24.png"
+        }
+    ]
+}
